@@ -60,7 +60,7 @@ const CertificateFormContainer = () => {
           animate={{ opacity: 1 }}
           transition={{ delay: 0.8, duration: 0.5 }}
         >
-          <p>Having trouble? &nbsp; Mail to <a href="mailto:aravindbnl@am.amrita.edu" className="text-black underline hover:text-gray-600 transition-colors">aravindbnl@am.amrita.edu</a></p>
+          <p className="text-white">Having trouble? &nbsp; Mail to <a href="mailto:aravindbnl@am.amrita.edu" className="text-white underline hover:text-gray-100 transition-colors">aravindbnl@am.amrita.edu</a></p>
         </motion.div>
       </motion.div>
     </div>
